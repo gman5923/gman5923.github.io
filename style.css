@@ -1,0 +1,24 @@
+.header {
+    padding-bottom: 5px;
+    color: orange;
+}
+
+p {
+    font-size: 18px;
+
+}
+
+body {
+    text-align: center;
+    background-color: rgb(130, 130, 184);
+}
+
+h2 {
+    color: orange;
+}
+
+li {
+    font-size: 18px;
+    text-align: center;
+}
+
