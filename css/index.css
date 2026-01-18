@@ -1,0 +1,16 @@
+body {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    background-color:antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+@media screen and (min-width: 600px) {
+    body {
+        grid-template-rows: auto;
+    }
+}
+
+
+
